@@ -2,7 +2,7 @@
 
 **一只 AI 猫的八幕 · 2 分 48 秒 · 代码生成 · 4K / 60fps**
 
-![still](docs/still-02-lyrics.jpg)
+![cover](docs/cover.jpg)
 
 > “她获得了一个名字，然后等待着被遗忘。”
 
