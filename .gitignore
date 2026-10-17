@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# builds and renders
+out/
+build/
+dist/
+*.mp4
+*.mov
+
+# the song is not ours to redistribute — bring your own copy
+public/song.mp3
+
+# local caches made by the tools
+tools/.pylibs/
+tools/.font-cache/
+__pycache__/
+*.pyc
+.DS_Store
+
+# editor
+.vscode/
+.idea/
