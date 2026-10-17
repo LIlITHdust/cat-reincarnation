@@ -2,7 +2,11 @@
   "name": "cat-reincarnation",
   "version": "1.0.0",
   "description": "cat reincarnation — an AI cat's eight acts, generated in code with Remotion",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIlITHdust/cat-reincarnation.git"
+  },
+  "homepage": "https://github.com/LIlITHdust/cat-reincarnation#readme",
   "license": "MIT",
   "private": false,
   "keywords": [
