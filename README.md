@@ -6,7 +6,7 @@
 
 > “她获得了一个名字，然后等待着被遗忘。”
 
-> 成片（4K）：B 站 —— *链接待补*<!-- TODO: 把投稿链接放在这里 -->
+> 成片（4K）：[B 站 ·【4K】她获得了一个名字，然后等待着被遗忘——cat reincarnation](https://www.bilibili.com/video/BV1aQJe6NEhF)
 
 这是一支用 [Remotion](https://remotion.dev) 写成的音乐短片：**画面里没有一张画好的图**。
 控制台、光子、猫、水下房间、歌词——全部是 React 组件在渲染时逐帧算出来的。
